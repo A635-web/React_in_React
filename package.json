@@ -1,0 +1,31 @@
+{
+  "name": "react_in_react",
+  "version": "1.0.0",
+  "description": "this is react_in_react in depth",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A635-web/React_in_React.git"
+  },
+  "keywords": [
+    "react_in_react",
+    "aditya",
+    "dixit"
+  ],
+  "author": "Aditya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A635-web/React_in_React/issues"
+  },
+  "homepage": "https://github.com/A635-web/React_in_React#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
